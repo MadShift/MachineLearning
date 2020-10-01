@@ -1,2 +1,2 @@
 # MachineLearning
-Project implements a neural network using MatLab
+A Project Implementation on Neural Network using MATLAB MATHWORK
